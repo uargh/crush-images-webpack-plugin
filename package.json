@@ -1,0 +1,28 @@
+{
+  "name": "crush-images-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin that compresses image assets.",
+  "main": "crush-images-webpack-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uargh/crush-images-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "images",
+    "crush",
+    "optimize"
+  ],
+  "author": "Jonas Heitzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uargh/crush-images-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/uargh/crush-images-webpack-plugin#readme",
+  "dependencies": {
+    "compress-images": "^1.4.6"
+  }
+}
